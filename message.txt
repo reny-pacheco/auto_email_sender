@@ -1,0 +1,5 @@
+Hello ${NAME}
+
+This is a test message from email_sender.py
+
+Thank you
